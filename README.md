@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/codewithbirat1/Birat_Pandey/blob/main/Developer%20Working%20On%20Project.gif" alt="Developer at Work" width="35%" />
+  <img src="https://github.com/codewithbirat1/codewithbirat1/blob/main/Developer%20Working%20On%20Project.gif" alt="Developer at Work" width="35%" />
 </p>
 
 ---
