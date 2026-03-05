@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on **modern web development projects**, leveraging cutting-edge technologies.
 - 🌱 Continuously learning and improving my skills in **Frontend Development**, **Data Structures & Algorithms (DSA)**, and **SQL**.
 - 💬 I'm always up for discussing **C, C++, JavaScript, React, SQL**, and more!
-- 👨‍💻 Check out my projects at: [**biratdev.me**](https://biratdev.me)
+- 👨‍💻 Check out my projects at: [**biratdev.me**](https://birat.nexolinx.com/)
 - 📄 Explore my professional journey through my [**Resume**](https://biratdev.me/resume)
 - 📫 Let's connect! Reach me at: **biratpandey9@gmail.com**
 
